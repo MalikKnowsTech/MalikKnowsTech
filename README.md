@@ -1,5 +1,5 @@
 - 👋🏾 Hi, I’m Malik
-- 👨🏾‍💻 I’m on the road to becoming a DevOps Engineer.
+- 👨🏾‍💻 I’m on the road to joining the Tech industry.
 - ☁️ I passed my AWS Certified Cloud Practioner Exam in January 2022.
 - 🐍 I’m currently learning Python.
 - 📫 How to reach me ... linktr.ee/MalikLisbon
